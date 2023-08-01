@@ -1,4 +1,4 @@
-Hi there 👋 I Am Aditi 
+Hi there 👋 I Am Aditi Chhabra 
 
 🌱 I am currently Learning Frontend Development.
 
