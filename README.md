@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I Am Aditi Chhabra<br><br>🌱 I am currently Learning Frontend Development.<br><br>🤝 In my free time I listen to Taylor Swift's songs :p<br><br>📨 How to reach me :- aditichh01@gmail.com
+Hi there 👋 I Am Aditi Chhabra<br><br>🌱 I am currently Learning Frontend Development.<br><br>🤝 I like Listening to Taylor Swift's songs :p<br><br>📨 How to reach me :- aditichh01@gmail.com
 
 
 ## 🌐 Socials:
