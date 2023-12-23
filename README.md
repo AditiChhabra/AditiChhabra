@@ -16,3 +16,4 @@ Hi there 👋 I Am Aditi Chhabra<br><br>🌱 I am currently Learning Frontend De
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @aditichhabra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditichhabra)](https://holopin.io/@aditichhabra)
