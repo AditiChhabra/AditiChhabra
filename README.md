@@ -7,8 +7,6 @@ Hi there 👋 I Am Aditi Chhabra<br><br>🌱 I am currently Learning Frontend De
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-[![AditiChhabra's GitHub | Stats](https://stats.quine.sh/AditiChhabra/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AditiChhabra)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
