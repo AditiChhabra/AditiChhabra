@@ -11,8 +11,10 @@ Hi there 👋 I Am Aditi Chhabra<br><br>🌱 I am currently Learning Frontend De
 # 📊 GitHub Stats:
 [![AditiChhabra's GitHub | Stats](https://stats.quine.sh/AditiChhabra/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AditiChhabra) 
 <br></br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AditiChhabra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiChhabra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AditiChhabra&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiChhabra&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ### ✍️ Random Dev Quote
