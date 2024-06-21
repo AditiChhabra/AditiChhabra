@@ -1,5 +1,5 @@
-## 💫 About Me
-Hi there 👋 I Am Aditi Chhabra<br>🌱 I am currently Exploring Web Development.<br>🤝 I like Listening to Taylor Swift & One Direction.<br>
+## Hi there, I'm Aditi 👋
+🌱 I am currently Exploring Web Development and Open Source.<br>🤝 I like Listening to Taylor Swift & One Direction.<br>
 
 ## 🌐 Let's Connect
  <a href="https://www.linkedin.com/in/aditi-chhabra-2a33661a6/" target="_blank">
