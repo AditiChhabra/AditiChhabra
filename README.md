@@ -1,12 +1,11 @@
-## Hi there, I'm Aditi 👋
+<h2>Hi there, I'm Aditi 👋</h2>
 🌱 I am currently Exploring Web Development and Open Source.<br>🤝 I like Listening to Taylor Swift & One Direction.<br>
 
-## 🌐 Let's Connect
+<h3>Let's Connect:</h3> 
  <a href="https://www.linkedin.com/in/aditi-chhabra-2a33661a6/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" width="95" height="90" /> 
 
-
-## 🚀 Some Tools I Have Used and Learned
+<h3> Some languages and tools I have learned</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
@@ -21,8 +20,6 @@
 
 
 ![](https://github-profile-trophy.vercel.app/?username=AditiChhabra&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![An image of @aditichhabra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditichhabra)](https://holopin.io/@aditichhabra)
