@@ -18,8 +18,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" /> </p><br>
 
-
-![](https://github-profile-trophy.vercel.app/?username=AditiChhabra&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![An image of @aditichhabra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditichhabra)](https://holopin.io/@aditichhabra)
+
+ [![An image of @aditichhabra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditichhabra)](https://holopin.io/@aditichhabra)
+<br> 
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
